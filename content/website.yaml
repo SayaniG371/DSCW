@@ -1,0 +1,12 @@
+- title: 'Developer Student Clubs' # for <title> tag
+  description: 'Developer Student Clubs(DSC) is a program for university students to acquire technical skills and solve problems' #Meta description
+  description2 : 'DSC SIT is a community for students, ranging from novice to advanced developers who want to further their skills. The club is intended as a space for students to learn, try out new ideas and collaborate.'
+  university: 'Siliguri Institute Of Technology'
+  lang: 'en'
+  register: '' # optional
+  calendar: '' # optional
+  mail: '' # optional
+  social:
+    youtube: 'https://youtube.com'
+    github: 'https://github.com'
+    twitter: 'https://twitter.com'
