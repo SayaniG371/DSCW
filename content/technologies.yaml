@@ -8,12 +8,12 @@
       link: https://codelabs.developers.google.com/?cat=Android
     - header: Web Development
       body: Learn the core foundations of a delightful web experience both for the user and developer. Stay up to tabs with emerging and trending technologies. Get access to a guided, tutorial and hands-on coding experience.
-      img: images/technologies/web.png
+      img: images/technologies/webdev.png
       alt: Developer building a progressive web app
       link: https://codelabs.developers.google.com/?cat=Web
     - header: Cloud Computing
       body: For passionate developers who want to stay relevant in a cloud first world where businesses demand for agility and innovation and prompt rise of cloud-native applications to ridges gaps between data, insight, and action.
-      img: images/technologies/cloud.png
+      img: images/technologies/cloud.jpg
       alt: Illustration of data uploading to the cloud
       link: https://codelabs.developers.google.com/?cat=Cloud
     - header: Machine Intelligence

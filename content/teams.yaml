@@ -1,232 +1,132 @@
-- name: John Doe
-  role: Mentor
-  img: images/teams/avatar.png
-  descs:
-    - Mobile and Web developer
-    - Open source enthusiast
-    - Community mentor
+- name: Chaitaly Kundu	
+  role: DSC-Lead
+  img: images/teams/Chaitaly.jpeg
   social:
-    twitter: https://www.example.com
-    github: https://www.example.com
-    linkedin: https://www.example.com
+    twitter: https://twitter.com/chaitaly_kundu?s=09 
+    github: https://github.com/Chaitalykundu
+    linkedin: https://www.linkedin.com/in/chaitaly-kundu-476968175
 
-- name: John Doe 2
-  role: Mentor
-  img: images/teams/avatar.png
-  descs:
-    - Mobile and Web developer
-    - Open source enthusiast
-    - Community mentor
+- name: Shiv Gopal Verma
+  role: Event-Lead
+  img: images/teams/Shiv.jpg
   social:
-    twitter: https://www.example.com
-    github: https://www.example.com
+    twitter: https://twitter.com/ShivGopal07?s=08
+    github: https://github.com/shivgopal07
+    linkedin: https://www.linkedin.com/in/shiv-gopal-verma-a11165198
 
-- name: John Doe 3
-  role: Mentor
-  img: images/teams/avatar.png
-  descs:
-    - Mobile and Web developer
-    - Open source enthusiast
-    - Community mentor
+- name: Sayani Ghosh
+  role: Desktop App Dev Head
+  img: images/teams/Sayani.jpg
   social:
-    github: https://www.example.com
-    linkedin: https://www.example.com
+    twitter: https://twitter.com/SayaniG371?s=09
+    github: https://github.com/SayaniG371
+    linkedin: https://www.linkedin.com/in/sayani-ghosh03
 
-- name: John Doe 4
-  role: Mentor
-  img: images/teams/avatar.png
-  descs:
-    - Mobile and Web developer
-    - Open source enthusiast
-    - Community mentor
+- name: Keshav Agarwal 
+  role: Mobile App Dev Head
+  img: images/teams/Keshav.jpeg
   social:
-    github: https://www.example.com
-    linkedin: https://www.example.com
+    twitter: https://mobile.twitter.com/KeshavA76099697
+    github: https://github.com/InfamousBolt
+    linkedin: https://www.linkedin.com/in/keshav-agarwal-b39322192
 
-- name: John Doe 5
-  role: Mentor
-  img: images/teams/avatar.png
-  descs:
-    - Mobile and Web developer
-    - Open source enthusiast
-    - Community mentor
+- name: Nivedita Prasad
+  role: ML and Management Head
+  img: images/teams/Nivedita.jpg
   social:
-    github: https://www.example.com
-    linkedin: https://www.example.com
+    twitter: https://twitter.com/NiveditaPrasa15?s=09
+    github: https://github.com/Nivedita-coder
+    linkedin: https://www.linkedin.com/in/nivedita-prasad-706719194
 
-- name: John Doe 6
-  role: Mentor
-  img: images/teams/avatar.png
-  descs:
-    - Mobile and Web developer
-    - Open source enthusiast
-    - Community mentor
+- name: Deep Dhar
+  role: Design and Content Head
+  img: images/teams/Deep.jpg
   social:
-    github: https://www.example.com
-    linkedin: https://www.example.com
+    twitter: https://twitter.com/deepdhar2000
+    github: https://github.com/deepdhar
+    linkedin: https://www.linkedin.com/in/deep-dhar/
 
-- name: John Doe 7
-  role: Mentor
-  img: images/teams/avatar.png
-  descs:
-    - Mobile and Web developer
-    - Open source enthusiast
-    - Community mentor
+- name: Abhineet Mishra
+  role: Speaker/Volunteer
+  img: images/teams/Abhineet.jpg
   social:
-    github: https://www.example.com
-    linkedin: https://www.example.com
+    twitter: https://twitter.com/Abhineet64
+    github: https://github.com/abhineetmishra64
+    linkedin: https://www.linkedin.com/in/abhineet-mishra-323b6016b
 
-- name: John Doe 8
-  role: Mentor
-  img: images/teams/avatar.png
-  descs:
-    - Mobile and Web developer
-    - Open source enthusiast
-    - Community mentor
+- name: Pratim Kumar Das
+  role: Speaker/Volunteer
+  img: images/teams/Pratim.jpg
   social:
-    github: https://www.example.com
-    linkedin: https://www.example.com
+    twitter: https://twitter.com/Dpratim14?s=08
+    github: https://github.com/Pratim14
+    linkedin: https://www.linkedin.com/in/iam-pratim-das
 
-- name: John Doe 9
-  role: Mentor
-  img: images/teams/avatar.png
-  descs:
-    - Mobile and Web developer
-    - Open source enthusiast
-    - Community mentor
+- name: Rishabh kumar
+  role: Speaker/Volunteer
+  img: images/teams/Rishabh.jpg
   social:
-    github: https://www.example.com
-    linkedin: https://www.example.com
+    twitter: https://twitter.com/Rishabh60430117?s=08
+    github: https://github.com/rishabhku
+    linkedin: https://www.linkedin.com/in/rishabh-jha-7b084417a
 
-- name: John Doe 10
-  role: Mentor
-  img: images/teams/avatar.png
-  descs:
-    - Mobile and Web developer
-    - Open source enthusiast
-    - Community mentor
+- name: Mainak Dasgupta
+  role: Speaker/Volunteer
+  img: images/teams/Mainak.jpg
   social:
-    github: https://www.example.com
-    linkedin: https://www.example.com
+    twitter: https://twitter.com/Mainak35844429?s=09
+    github: https://github.com/Mainak29
+    linkedin: https://www.linkedin.com/in/mainakdasgupta
 
-- name: John Doe 11
-  role: Mentor
-  img: images/teams/avatar.png
-  descs:
-    - Mobile and Web developer
-    - Open source enthusiast
-    - Community mentor
+- name: Mayank Raj Murlidharan 
+  role: Speaker/Volunteer
+  img: images/teams/Mayank.jpg
   social:
-    github: https://www.example.com
-    linkedin: https://www.example.com
+    github: https://github.com/mayankraj096
+    linkedin: https://www.linkedin.com/in/mayank-raj-2a8303158
 
-- name: John Doe 12
-  role: Mentor
-  img: images/teams/avatar.png
-  descs:
-    - Mobile and Web developer
-    - Open source enthusiast
-    - Community mentor
+- name: Arupa Das 
+  role: Speaker/Volunteer
+  img: images/teams/Arupa.jpg
   social:
-    github: https://www.example.com
-    linkedin: https://www.example.com
+    linkedin: https://www.linkedin.com/in/arupa-das-1546481a6
 
-- name: John Doe 13
-  role: Mentor
-  img: images/teams/avatar.png
-  descs:
-    - Mobile and Web developer
-    - Open source enthusiast
-    - Community mentor
+- name: Aman Raza
+  role: Speaker/Volunteer
+  img: images/teams/Aman.png
   social:
-    github: https://www.example.com
-    linkedin: https://www.example.com
+    twitter: https://twitter.com/_amanraza
+    github: https://github.com/aman-raza
+    linkedin: https://www.linkedin.com/in/aman-r-558b38186/
 
-- name: John Doe 14
-  role: Mentor
-  img: images/teams/avatar.png
-  descs:
-    - Mobile and Web developer
-    - Open source enthusiast
-    - Community mentor
+- name: Ishan Bagchi
+  role: Speaker/Volunteer
+  img: images/teams/Ishan.jpg
   social:
-    github: https://www.example.com
-    linkedin: https://www.example.com
+    twitter: https://mobile.twitter.com/BagchiIshan
+    github: https://github.com/ishanbagchi
+    linkedin: https://www.linkedin.com/in/ishan-bagchi-8b153a191
 
-- name: John Doe 15
-  role: Mentor
-  img: images/teams/avatar.png
-  descs:
-    - Mobile and Web developer
-    - Open source enthusiast
-    - Community mentor
+- name: Nilavya Das
+  role: Speaker/Volunteer
+  img: images/teams/Nilavya.jpeg
   social:
-    github: https://www.example.com
-    linkedin: https://www.example.com
-
-
-- name: John Doe 16
-  role: Mentor
-  img: images/teams/avatar.png
-  descs:
-    - Mobile and Web developer
-    - Open source enthusiast
-    - Community mentor
+    twitter: https://twitter.com/Nilavya1
+    github: https://github.com/nilavya2000
+    linkedin: https://www.linkedin.com/in/nilavya-das-0ba627173/
+  
+- name: Alok Kumar
+  role: Speaker/Volunteer
+  img: images/teams/Alok.jpg
   social:
-    github: https://www.example.com
-    linkedin: https://www.example.com
+    twitter: https://mobile.twitter.com/alok_aryan51
+    github: https://github.com/ALOKARYAN51
+    linkedin: https://www.linkedin.com/in/alok-kumar-892871194
 
-- name: John Doe 17
-  role: Mentor
-  img: images/teams/avatar.png
-  descs:
-    - Mobile and Web developer
-    - Open source enthusiast
-    - Community mentor
+- name: Barnali Basak
+  role: Speaker/Volunteer
+  img: images/teams/Barnali.jpg
   social:
-    github: https://www.example.com
-    linkedin: https://www.example.com
-
-- name: John Doe 18
-  role: Mentor
-  img: images/teams/avatar.png
-  descs:
-    - Mobile and Web developer
-    - Open source enthusiast
-    - Community mentor
-  social:
-    github: https://www.example.com
-    linkedin: https://www.example.com
-
-- name: John Doe 19
-  role: Mentor
-  img: images/teams/avatar.png
-  descs:
-    - Mobile and Web developer
-    - Open source enthusiast
-    - Community mentor
-  social:
-    github: https://www.example.com
-    linkedin: https://www.example.com
-
-- name: John Doe 20
-  role: Mentor
-  img: images/teams/avatar.png
-  descs:
-    - Mobile and Web developer
-    - Open source enthusiast
-    - Community mentor
-  social:
-    github: https://www.example.com
-    linkedin: https://www.example.com
-
-- name: John Doe 21
-  role: Mentor
-  img: images/teams/avatar.png
-  descs:
-    - Mobile and Web developer
-    - Open source enthusiast
-    - Community mentor
-  social:
-    github: https://www.example.com
-    linkedin: https://www.example.com
+    twitter: https://twitter.com/_iambarna_
+    github: https://github.com/barnalibasak
+    linkedin: https://www.linkedin.com/in/barnali-basak-615283194

@@ -5,7 +5,7 @@ import Card from 'react-bootstrap/Card'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import * as icons from '../../icons'
 
-const Team = ({ name, role, descs, img, social }) => (
+const Team = ({ name, role, img, social }) => (
   <Col xs={12} md={4} className="col-md-4 col-15">
     <Card className="card event-card">
       <Card className="hovercard">
@@ -18,11 +18,6 @@ const Team = ({ name, role, descs, img, social }) => (
             <h5>{name}</h5>
             <p>{role}</p>
           </div>
-          {descs.map((desc, i) => (
-            <div key={i} className="desc">
-              {desc}
-            </div>
-          ))}
         </div>
         <div className="bottom">
           <ul className="social-list__inline mt-10">

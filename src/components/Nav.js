@@ -45,21 +45,29 @@ const Nav = ({ register }) => {
         </Navbar.Toggle>
         <Navbar.Collapse>
           <BsNav className="ml-lg-auto">
+            <span className="nav-link js-scroll-trigger">
             <BsNav.Item>
               <BsNav.Link href="#overview">Overview</BsNav.Link>
             </BsNav.Item>
+            </span>
+            <span className="nav-link js-scroll-trigger">
             <BsNav.Item>
               <BsNav.Link href="#technologies">Technologies</BsNav.Link>
             </BsNav.Item>
+            </span>
             {/* <BsNav.Item>
               <BsNav.Link href="#workshops">Workshops</BsNav.Link>
             </BsNav.Item> */}
+            <span className="nav-link js-scroll-trigger">
             <BsNav.Item>
               <BsNav.Link href="#team">Team</BsNav.Link>
             </BsNav.Item>
+            </span>
+            <span className="nav-link js-scroll-trigger">
             <BsNav.Item>
               <BsNav.Link href="#faqs">Faqs</BsNav.Link>
             </BsNav.Item>
+            </span>
           </BsNav>
           {register === '' ? null : (
             <div className="custom-menu__right">

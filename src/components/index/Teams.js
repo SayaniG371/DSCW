@@ -13,7 +13,6 @@ const Teams = _ => {
         nodes {
           name
           role
-          descs
           img {
             childImageSharp {
               fixed(width: 100, height: 100) {
@@ -37,7 +36,7 @@ const Teams = _ => {
         <header className="text-center section-header">
           <h2 className="section-title">Meet The DSC Team</h2>
           <p className="section-subtitle">
-            Passionate students and faculty staff driving the success of the
+            Passionate students driving the success of the
             program.
           </p>
         </header>
